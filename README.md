@@ -8,7 +8,7 @@
   <li>activity_main</li>
   <li>activity_login (No database, credentials provided in the code)</li>
   <li>activity_quiz</li>
-  <li>activity_results<li>
+  <li>activity_results</li>
   <li>activity_about</li>
 </ol>
 
