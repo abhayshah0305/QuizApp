@@ -13,4 +13,4 @@
 </ol>
 
 <p>For any queries contact:</p>
-<p>Email: shah.abhay.18but048@gmail.com</p>
+<p>Email: shah.abhay.18bit048@gmail.com</p>
